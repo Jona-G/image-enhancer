@@ -1,1 +1,1 @@
-# image-enhancer
+# A simple Image-Enhancer program (under development)
